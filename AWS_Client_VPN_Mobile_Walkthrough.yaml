@@ -89,7 +89,6 @@ Resources:
           - "SubnetConfig"
           - "Public0"
           - "CIDR"
-      MapPublicIpOnLaunch: "true"
 
   PublicSubnet1:
     Type: "AWS::EC2::Subnet"
@@ -105,7 +104,6 @@ Resources:
           - "SubnetConfig"
           - "Public1"
           - "CIDR"
-      MapPublicIpOnLaunch: "true"
 
   PrivateSubnet2:
     Type: "AWS::EC2::Subnet"
