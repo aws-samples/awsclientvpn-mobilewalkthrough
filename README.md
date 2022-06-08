@@ -1,4 +1,4 @@
-## Demo on how to securely connect your mobile device to AWS Client VPN
+## Demo on how to securely connect your mobile device to your AWS environment with AWS Client VPN
 
 Sample code available as a AWS CloudFormation template.
 
